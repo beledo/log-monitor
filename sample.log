@@ -1,0 +1,7 @@
+2026-11-24 10:00:01 INFO User login ok
+2026-11-24 10:00:05 ERROR 500 Internal Server Error /api/tickets
+2026-11-24 10:00:09 WARNING Slow response 2300ms /api/alarms
+2026-11-24 10:00:12 ERROR 404 Not Found /api/cases
+2026-11-24 10:00:15 INFO Ticket created
+2026-11-24 10:00:20 ERROR 500 Internal Server Error /api/tickets
+línea rota
